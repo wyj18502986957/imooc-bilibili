@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f474b998-81b8-4065-b32e-d031346fe56d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-bilibili-api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-bilibili-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-bilibili-api/src/main/java/com.imooc/ImoocBilibiliApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-bilibili-api/src/main/java/com/imooc/bilibili/api/DemoApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-bilibili-api/src/main/resources/application-online.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-bilibili-api/src/main/resources/application-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-bilibili-dao/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-bilibili-dao/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-bilibili-dao/src/main/java/com/imooc/bilibili/dao/DemoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-bilibili-dao/src/resources/mapper/DemoDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-bilibili-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-bilibili-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-bilibili-service/src/main/java/com/imooc/bilibili/service/DemoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imooc-bilibili-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\86185\.m2\repository3" />
+        <option name="userSettingsFile" value="C:\Users\86185\.m2\aliyun-settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2T4Q64K5vyYMPpVLTbagKo8N8A9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/offer",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "2101e404db64c90cbbb39ac8306da696"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\imooc-bilibili\imooc-bilibili-dao\src\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ImoocBilibiliApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="imooc-bilibili-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.ImoocBilibiliApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ImoocBilibiliApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f474b998-81b8-4065-b32e-d031346fe56d" name="Changes" comment="" />
+      <created>1690299697024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690299697024</updated>
+      <workItem from="1690299698272" duration="2110000" />
+      <workItem from="1690302788439" duration="2705000" />
+      <workItem from="1690328444581" duration="3306000" />
+      <workItem from="1690468770246" duration="597000" />
+      <workItem from="1690637484318" duration="1679000" />
+      <workItem from="1690639182803" duration="2179000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
